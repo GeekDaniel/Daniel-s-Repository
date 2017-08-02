@@ -1,0 +1,10 @@
+userInfo:
+  dn:
+      name: Daniel
+      sex: male
+      age: 27
+      like: paino
+
+Daniel:
+  address: Wall Street
+  email: 2333333@qq.com
